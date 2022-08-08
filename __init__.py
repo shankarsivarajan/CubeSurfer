@@ -19,8 +19,8 @@
 bl_info = {
     "name": "CubeSurfer",
     "author": "Jean-Francois Gallant (PyroEvil), Shankar Sivarajan",
-    "version": (0, 0, 3),
-    "blender": (2, 93, 0),
+    "version": (0, 0, 5),
+    "blender": (3, 2, 2),
     "location": "Properties > Object Tab",
     "description": "Isosurface remesher",
     "warning": "",  # used for warning icon and text in addons panel
